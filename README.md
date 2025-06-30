@@ -46,22 +46,18 @@ Testing: JUnit, Mockito, Spring Boot Test
 ![Pricing Page](./Images/email.png)
 
 
-# Clone repository
-git clone https://github.com/ishkasingh/Khata-web.git
-cd Khata-web
-
-# Launch with Docker
-docker-compose up -d
-
 🧪 Testing
-Unit Tests: 90%+ coverage with JUnit 5 and Mockito
-Integration Tests: Spring Boot Test for API endpoints
-User Testing: Beta tested with real wholesale businesses
+ * Unit Tests: 90%+ coverage with JUnit 5 and Mockito
+ * Integration Tests: Spring Boot Test for API endpoints
+ * User Testing: Beta tested with real wholesale businesses
 📈 Performance
-Response Time: <200ms average API response
-Concurrent Users: 500+ tested capacity
-Cache Hit Rate: 85%+ Redis efficiency
-Database: Optimized queries with indexing
+ * Response Time: <200ms average API response
+ * Concurrent Users: 500+ tested capacity
+ * Cache Hit Rate: 85%+ Redis efficiency
+ * Database: Optimized queries with indexing
+
+# Clone repository
+git clone https://github.com/ishkasingh/Khata-web.git 
 
 ⭐ Star this repo if you find it helpful!
 
