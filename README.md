@@ -37,15 +37,7 @@ Testing: JUnit, Mockito, Spring Boot Test
  * Real-time inventory management
  * Monthly sales trends and insights
 
-## 🖼️ Screenshots
-### 📊 Sales Dashboard (React)
-![Sales Chart](./Images/sales.png)
-### 🧾 Receipt List View
-![Receipt View](./Images/receipt.png)
-### 🧑 Customer notification's
-![Pricing Page](./Images/email.png)
-
-
+   
 🧪 Testing
  * Unit Tests: 90%+ coverage with JUnit 5 and Mockito
  * Integration Tests: Spring Boot Test for API endpoints
@@ -55,6 +47,15 @@ Testing: JUnit, Mockito, Spring Boot Test
  * Concurrent Users: 500+ tested capacity
  * Cache Hit Rate: 85%+ Redis efficiency
  * Database: Optimized queries with indexing
+
+## 🖼️ Screenshots
+### 📊 Sales Dashboard (React)
+![Sales Chart](./Images/sales.png)
+### 🧾 Receipt List View
+![Receipt View](./Images/receipt.png)
+### 🧑 Customer notification's
+![Pricing Page](./Images/email.png)
+
 
 # Clone repository
 git clone https://github.com/ishkasingh/Khata-web.git 
