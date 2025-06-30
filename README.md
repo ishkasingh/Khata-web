@@ -21,18 +21,18 @@ Testing: JUnit, Mockito, Spring Boot Test
  * Employee portal for receipt generation
  * JWT authentication with secure permissions
 💰 Dynamic Pricing Engine
-Customer-specific rate management
-Bulk pricing and volume discounts
-Real-time profit margin tracking
+ * Customer-specific rate management
+ * Bulk pricing and volume discounts
+ * Real-time profit margin tracking
 🧾 Digital Receipt System
-Professional receipt generation
-Email notifications via Kafka
-Delivery status tracking
+ * Professional receipt generation
+ * Email notifications via Kafka
+ * Delivery status tracking
 ⚡ Performance & Analytics
-Redis caching for 10x faster access
-Interactive sales dashboard with charts
-Real-time inventory management
-Monthly sales trends and insights
+ * Redis caching for 10x faster access
+ * Interactive sales dashboard with charts
+ * Real-time inventory management
+ * Monthly sales trends and insights
 
 ## 🖼️ Screenshots
 ### 📊 Sales Dashboard (React)
