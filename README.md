@@ -42,6 +42,7 @@ Testing: JUnit, Mockito, Spring Boot Test
  * Unit Tests: 90%+ coverage with JUnit 5 and Mockito
  * Integration Tests: Spring Boot Test for API endpoints
  * User Testing: Beta tested with real wholesale businesses
+   
 📈 Performance
  * Response Time: <200ms average API response
  * Concurrent Users: 500+ tested capacity
