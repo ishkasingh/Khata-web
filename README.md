@@ -15,10 +15,11 @@ Frontend: React + TailwindCSS
 Deployment: Docker Compose
 Testing: JUnit, Mockito, Spring Boot Test
 ✨ Key Features
+
 🔐 Role-Based Access Control
-Owner dashboard with full pricing control
-Employee portal for receipt generation
-JWT authentication with secure permissions
+ * Owner dashboard with full pricing control
+ * Employee portal for receipt generation
+ * JWT authentication with secure permissions
 💰 Dynamic Pricing Engine
 Customer-specific rate management
 Bulk pricing and volume discounts
