@@ -18,7 +18,7 @@ Modern business solution for retailers and distributors to manage customer prici
 
 
 ## 📽️ Demo
-📺 [Watch the full demo here](https://drive.google.com/file/d/1GVL3HYnqBB4093LwK8CErW2r5FE_6zB8/view?usp=sharing)
+📺 [Watch the full demo here](https://drive.google.com/file/d/11h5_lj7F3nhGmLBeFQtwBqX_xV45H73m/view?usp=drive_link)
 
 ## 🎯 About
 KhataWeb digitizes traditional B2B retail operations, built from real-world wholesale business needs. This platform eliminates manual processes with automated customer-specific pricing, digital receipt generation, and comprehensive sales analytics.
