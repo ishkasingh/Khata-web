@@ -1,20 +1,21 @@
-🧾 KhataWeb – B2B Retail Management Platform
+## 🧾 KhataWeb – B2B Retail Management Platform
 Modern business solution for retailers and distributors to manage customer pricing, digital receipts, and sales analytics.
 
 ![Banner](./Images/home.png)
 
-📽️ Demo
+## 📽️ Demo
 📺 [Watch the full demo here](https://drive.google.com/file/d/1GVL3HYnqBB4093LwK8CErW2r5FE_6zB8/view?usp=sharing)
 
-🎯 About
+## 🎯 About
 KhataWeb digitizes traditional B2B retail operations, built from real-world wholesale business needs. This platform eliminates manual processes with automated customer-specific pricing, digital receipt generation, and comprehensive sales analytics.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Backend: Spring Boot 3.x, MySQL, Redis, Kafka
 Frontend: React + TailwindCSS
 Deployment: Docker Compose
 Testing: JUnit, Mockito, Spring Boot Test
-✨ Key Features
+
+## ✨ Key Features
 
 🔐 Role-Based Access Control
  * Owner dashboard with full pricing control
