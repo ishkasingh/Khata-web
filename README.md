@@ -3,6 +3,20 @@ Modern business solution for retailers and distributors to manage customer prici
 
 ![Banner](./Images/home.png)
 
+## 📚 Table of Contents
+
+- [Demo](#-demo)
+- [About](#-about)
+- [Tech Stack](#-tech-stack)
+- [Key Features](#-key-features)
+- [Testing](#-testing)
+- [Performance](#-performance)
+- [Screenshots](#-screenshots)
+- [Getting Started](#-getting-started)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+
 ## 📽️ Demo
 📺 [Watch the full demo here](https://drive.google.com/file/d/1GVL3HYnqBB4093LwK8CErW2r5FE_6zB8/view?usp=sharing)
 
@@ -39,12 +53,12 @@ Testing: JUnit, Mockito, Spring Boot Test
  * Monthly sales trends and insights
 
    
-🧪 Testing
+## 🧪 Testing
  * Unit Tests: 90%+ coverage with JUnit 5 and Mockito
  * Integration Tests: Spring Boot Test for API endpoints
  * User Testing: Beta tested with real wholesale businesses
    
-📈 Performance
+## 📈 Performance
  * Response Time: <200ms average API response
  * Concurrent Users: 500+ tested capacity
  * Cache Hit Rate: 85%+ Redis efficiency
