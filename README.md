@@ -8,7 +8,7 @@
 
 ## 📽️ Video Walkthrough
 
-📺 [Watch the full demo here](https://drive.google.com/file/d/your-demo-link-here/view?usp=sharing)
+📺 [Watch the full demo here](https://drive.google.com/file/d/1GVL3HYnqBB4093LwK8CErW2r5FE_6zB8/view?usp=sharing)
 
 ---
 
@@ -74,12 +74,15 @@ Instead of using spreadsheets or pen-paper ledgers, **KhataWeb** brings a smart 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/khataweb.git
+git clone https://github.com/priyanshujains/khata-web.git
 
+```
 
 ### 2. Docker compose
 
 ```bash
-docker-compose up .
+ docker-compose up .
+```
+
 
 
